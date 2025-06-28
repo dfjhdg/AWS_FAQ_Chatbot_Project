@@ -32,7 +32,7 @@ This project demonstrates how to build a simple FAQ-style chatbot for AWS-relate
 
 ---
 
-## 📚 What I Learned / Achieved
+## 📚 What I Learned 
 Learned how to use TF-IDF and cosine similarity for real-world text matching.
 
 Built a working chatbot interface inside a Jupyter notebook.
