@@ -32,16 +32,7 @@ This project demonstrates how to build a simple FAQ-style chatbot for AWS-relate
 
 ---
 
-## 📚 What I Learned 
-Learned how to use TF-IDF and cosine similarity for real-world text matching.
 
-Built a working chatbot interface inside a Jupyter notebook.
-
-Preprocessed and handled real-world AWS FAQ data.
-
-Strengthened skills in pandas and scikit-learn.
-
----
 ## 💡 How It Works
 
 1. Loads the AWS FAQ dataset from CSV  
